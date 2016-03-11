@@ -1,6 +1,6 @@
 # Same as it ever was? New approaches to the same old data
 
-*Friday, 10 March 2016, 10:15 a.m.*
+*Thursday, 10 March 2016, 10:15 a.m.*
 
 Test scores. Weather. Census. Elections. There are some data stories that we're always going to have to tackle. In this session, listen to three veterans talk about ways they took the "same old, same old" and turned it on its head. You'll come away with fresh ideas and techniques for digging into familiar stories. This session is good for anyone.
 

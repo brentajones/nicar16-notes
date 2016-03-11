@@ -1,6 +1,6 @@
 # The way we look next: Mining past and future census data to predict diversity in race, income and aging
 
-*Friday, 10 March 2016, 9 a.m.*
+*Thursday, 10 March 2016, 9 a.m.*
 
 The idea of a melting pot nation has gotten a lot of attention over the years, but is it really true? Whether it’s race, ethnicity, income, gender or other issues that separate us, how do we measure whether (and where) we are growing apart or together over the next few decades? Three experts will walk you through how to find the right detailed tables in the Census, how to build an index that can be used to compare nearly anything, and what the Census categories really mean (including whether we will really be majority-minority by mid-century).
 
