@@ -9,3 +9,4 @@ Notes from the National Institute for Computer Assisted Reporting conference in 
 * [Same as it ever was? New approaches to the same old data](02-new-approaches-to-data.md)
 * [Data for breaking news](03-data-for-breaking-news.md)
 * [How to build tools so reporters will use them](04-how-to-build-tools-so-reporters-will-use-them.md)
+* [When and how data journalists disclose their methods](05-disclose.md)
