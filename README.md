@@ -10,3 +10,8 @@ Notes from the National Institute for Computer Assisted Reporting conference in 
 * [Data for breaking news](03-data-for-breaking-news.md)
 * [How to build tools so reporters will use them](04-how-to-build-tools-so-reporters-will-use-them.md)
 * [When and how data journalists disclose their methods](05-disclose.md)
+
+## Friday
+
+* [How to avoid rookie mistakes](06-rookie-mistakes.md)
+* [Which chart should I use, and why? Information design for the human brain!](07-information-design.md)
