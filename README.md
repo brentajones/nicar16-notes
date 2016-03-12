@@ -18,3 +18,7 @@ Notes from the National Institute for Computer Assisted Reporting conference in 
 * [How to keep up: Newsapps teams as lifetime learners](08-lifetime-learners.md)
 * [So you want to be a lonely coder](09-lonely-coders.md)
 * **[Lightning talks](10-lightning-talks.md)**
+
+## Saturday
+
+* [The life cycle of a news app](13-life-cycle.md)
