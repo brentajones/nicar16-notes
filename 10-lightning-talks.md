@@ -92,8 +92,11 @@ Agate-lookup.
 States, ISO, NAICS, CPI.
 
 ~~VLOOKUP~~
+
 ~~LEFT JOIN~~
+
 ~~Bespoke Scripts~~
+
 **lookup**
 
 ## Automation in the newsroom
@@ -205,6 +208,7 @@ Every street sweeping sign in NYC, by day.
 Vector files are rendered on the fly.
 
 Mapbox -- metered
+
 Mapzen -- free
 
 
