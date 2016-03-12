@@ -1,4 +1,4 @@
-# So you want to be a lonely coder
+# The life cycle of a news app
 
 *Saturday, 12 March 2016, 11:30 a.m.*
 

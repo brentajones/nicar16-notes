@@ -2,7 +2,7 @@
 
 **[Tipsheet](assets/03-data-for-breaking-news.pdf)**
 
-*Thursday, 10 March 2016, 9 a.m.*
+*Thursday, 10 March 2016, 11:30 a.m.*
 
 What will you do the next time a plane crashes, the big storm hits or a politician gets caught in a scandal? We'll show you how you can prepare for the next big story using dashboards, searchable databases and more. We’ll also help you cover daily, general and everyday news by building your toolbox so you can use these techniques any time.
 
