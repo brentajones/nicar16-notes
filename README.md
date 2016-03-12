@@ -22,4 +22,5 @@ Notes from the National Institute for Computer Assisted Reporting conference in 
 ## Saturday
 
 * [Agate for data analysis in python](11-agate.md)
+* [Conversations: Getting organized - Letting information work for you, rather than being buried by it](12-organizing.md)
 * [The life cycle of a news app](13-life-cycle.md)
