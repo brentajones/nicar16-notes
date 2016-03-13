@@ -25,3 +25,4 @@ Notes from the National Institute for Computer Assisted Reporting conference in 
 * [Conversations: Getting organized - Letting information work for you, rather than being buried by it](12-organizing.md)
 * [The life cycle of a news app](13-life-cycle.md)
 * [All about the analysis](14-analysis.md)
+* [Creating snackable and shareable dataviz](15-snackable.md)
