@@ -30,3 +30,4 @@ Notes from the National Institute for Computer Assisted Reporting conference in 
 ## Sunday
 
 * [Stats primer: Making sense of data](16-stats.md)
+* [Career roundtable](17-career.md)
