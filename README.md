@@ -26,3 +26,7 @@ Notes from the National Institute for Computer Assisted Reporting conference in 
 * [The life cycle of a news app](13-life-cycle.md)
 * [All about the analysis](14-analysis.md)
 * [Creating snackable and shareable dataviz](15-snackable.md)
+
+## Sunday
+
+* [Stats primer: Making sense of data](16-stats.md)
