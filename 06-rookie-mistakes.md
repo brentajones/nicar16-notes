@@ -9,4 +9,4 @@ A group of seasoned data journalists share their past data analysis mistakes -- 
 * Matt Wynn, Omaha World Herald
 * Brent Jones, St. Louis Public Radio
 
-I didn't take notes during this session because I was on the panel. [Here are the slides](http://tinyurl.com/DataRookies).
+I didn't take notes during this session because I was on the panel. [Here are the slides](assets/06-rookie-mistakes.pdf).

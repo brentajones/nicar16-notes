@@ -11,6 +11,8 @@ We'll explore how research into the ways people estimate numbers will change how
 
 *Peter Aldhouse*
 
+[presentation link](http://paldhous.github.io/NICAR/2016/infodesign.html)
+
 * Length
 * Slope
 * Color hue
@@ -71,6 +73,8 @@ Use Colorbrewer, helps avoid excluding colorblind folks.
 ## The Importance of Color
 
 *Alexandra Kanik*
+
+[presentation link](assets/07-information-design-ak.pdf)
 
 Storm Surge map using rainbow color scale, you don't know it's water unless you know it's water (aka the color scheme doesn't help you understand).
 

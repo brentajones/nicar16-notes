@@ -2,6 +2,8 @@
 
 *Saturday, 12 March 2016, 4:45 p.m.*
 
+[slides](assets/15-snackable.pdf)
+
 As more people turn to Facebook, Twitter and even Snapchat for news, journalists are creating and distributing data visualizations that are native to those platforms. In this session, learn about the nuances of short-form, mobile-first storytelling and why "snackable" graphics are essential to engaging younger audiences.
 
 * Yvonne Leow, Vox.com

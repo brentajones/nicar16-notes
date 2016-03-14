@@ -2,6 +2,8 @@
 
 *Thursday, 10 March 2016, 4:45 p.m.*
 
+[slides](assets/05-disclose.md)
+
 While a data journalist's toolkit is becoming more and more complex, the responsibility to disclose and explain our methods remains a bit murky. How do we explain to a lay audience our usage of models or machine learning techniques? What if there is an error in a library we used to perform our analysis? What do readers need to understand about our techniques to properly interpret the results of our analysis? Should we publish source/raw data? These are a few of the questions we will raise and attempt to answer — with your help. Audience participation will be an important part of this session. Let's figure out some transparency best practices for data journalists.
 
 * Chris Groskopf, Quartz

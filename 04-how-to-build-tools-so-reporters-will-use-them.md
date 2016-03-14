@@ -1,7 +1,5 @@
 # How to build tools so reporters will use them
 
-**[Tipsheet](assets/03-data-for-breaking-news.pdf)**
-
 *Thursday, 10 March 2016, 3:30 p.m.*
 
 For search, for transcription, for databases and for ______________, we're building more tools for reporters to use on their own. Let's talk about our experiences designing these tools, building them and promoting them internally.

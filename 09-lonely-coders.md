@@ -10,4 +10,4 @@ How do you transition from a journalist who does data stuff sometimes to a full-
 * Alexandra Kanik, MediaShift
 * Brent Jones, St. Louis Public Radio
 
-I was on this panel. [Here's the tipsheet](https://github.com/scottpham/NICAR16LCC).
+I was on this panel. [Here are the slides](assets/09-lonely-coders-slides.pdf). [And here's the tipsheet](assets/09-lonely-coders-tipsheet.pdf).

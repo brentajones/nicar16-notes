@@ -20,6 +20,8 @@ Sometimes you don't need 45 minutes to explain a useful technique or interesting
 
 *Ryann Grochowski Jones, Pro Publica*
 
+[slides](assets/10-lightning-talks-01.pdf)
+
 I hated math because I wasn't good at it.
 
 One of the reasons I became a journalist was so I would never have to do math again.
@@ -40,6 +42,8 @@ Math is like a foreign language -- I may be able to learn enough to be comfortab
 ## Solve Every Statistics Problem with One Weird Trick
 
 *Jonathan Stray*
+
+[slides](assets/10-lightning-talks-02.pdf)
 
 There's a better way with a newfangled device I like to call a computer.
 
@@ -73,6 +77,8 @@ Reduce your frustration, reuse your data.
 
 *Chris Groskopf*
 
+[slides](assets/10-lightning-talks-03.pdf)
+
 Wireservice is umbrella project for csvkit and agate. Agate is a data analysis library.
 
 We're wasting so much time.
@@ -102,6 +108,8 @@ States, ISO, NAICS, CPI.
 ## Automation in the newsroom
 
 *Ariana Giorgi*
+
+[slides](assets/10-lightning-talks-04.pdf)
 
 Writing scripts or programs to streamline projects or increase productivity.
 
@@ -151,6 +159,8 @@ Writing scripts or programs to streamline projects or increase productivity.
 
 *Dan Nguyen*
 
+[slides](http://regex.danwin.com/slides/#/)
+
 What can we find with regex? Patterns in text (so maybe stop turning text into data).
 
 Love
@@ -182,6 +192,8 @@ FEC data too big for excel.
 ## Map tiles are dead; Long live (vector) tiles!
 
 *Ken Schwencke*
+
+[slides](assets/10-lightning-talks-06.pdf)
 
 What's a map tile? Chunk of a map.
 
@@ -215,6 +227,8 @@ Mapzen -- free
 ## How to read 52 books in 52 weeks
 
 *Nicole Zhu*
+
+[slides](http://nicolezhu.io/talks/nicar-2016/#/)
 
 Why?
 
@@ -283,6 +297,8 @@ Putting graphics people into traditional reporting roles. Spend time on the tech
 
 *Gregor Aisch*
 
+[slides](http://slides.com/drivenbydata/nicar16#/)
+
 We call all kinds of things interactive. Everything is interactive?
 
 Is it interactive when it takes a bunch of code to create?
@@ -304,6 +320,8 @@ Quartz mobile app, chats the news.
 ## Cats and Stats
 
 *Jennifer LaFleur*
+
+[slides](assets/10-lightning-talks-10.pdf)
 
 The data ladder: CATegorical, continuous
 
